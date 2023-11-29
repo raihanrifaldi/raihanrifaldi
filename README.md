@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on 
 - Student Informatics
-- Learner about Tech 
+- Learner about Tech <br>
 👯 I’m looking to collaborate on IT Project 
 🤝 I’m looking for help with anyone 
 🌱 I’m currently learning
