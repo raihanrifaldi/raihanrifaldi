@@ -3,13 +3,13 @@
 - Student Informatics<br>
 - Learner about Tech<br>
 
-👯 I’m looking to collaborate on IT Project <br>
-🤝 I’m looking for help with anyone <br>
 🌱 I’m currently learning <br>
 - Frontend <br>
 - Cloud Computing <br>
 
-💬 Ask me about Google Cloud, Personal Branding <br>
+👯 I’m looking to collaborate on IT Project <br>
+🤝 I’m looking for help with anyone <br>
+💬 Ask me about **Google Cloud**, **Personal Branding** <br>
 ⚡ Fun fact: likes to be friends with anyone! <br>
 
 ## 🌐 Socials:
