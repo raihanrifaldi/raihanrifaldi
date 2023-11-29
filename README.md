@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on<br> - Student Informatics<br>- Learner about Tech<br>👯 I’m looking to collaborate on IT Project<br>🤝 I’m looking for help with anyone<br>🌱 I’m currently learning<br>* Frontend<br>* Cloud Computing<br>💬 Ask me about Google Cloud, Personal Branding, CV<br>⚡ Fun fact: likes to be friends with anyone!
+🔭 I’m currently working on 
+- Student Informatics
+- Learner about Tech
+👯 I’m looking to collaborate on IT Project<br>🤝 I’m looking for help with anyone<br>🌱 I’m currently learning<br>* Frontend<br>* Cloud Computing<br>💬 Ask me about Google Cloud, Personal Branding, CV<br>⚡ Fun fact: likes to be friends with anyone!
 
 
 ## 🌐 Socials:
