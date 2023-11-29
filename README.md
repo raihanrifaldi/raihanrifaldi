@@ -2,7 +2,7 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 🔭 I’m currently working on 
 - Student Informatics<br>
-- Learner about Tech<be>
+- Learner about Tech<br>
 
 
 
