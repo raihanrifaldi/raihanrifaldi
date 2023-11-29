@@ -1,9 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on 
 - Student Informatics
-- Learner about Tech
-👯 I’m looking to collaborate on IT Project
-🤝 I’m looking for help with anyone
+- Learner about Tech 
+👯 I’m looking to collaborate on IT Project 
+🤝 I’m looking for help with anyone 
 🌱 I’m currently learning
 - Frontend
 - Cloud Computing
