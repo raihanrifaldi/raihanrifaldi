@@ -8,6 +8,7 @@
 🌱 I’m currently learning <br>
 - Frontend <br>
 - Cloud Computing <br>
+
 💬 Ask me about Google Cloud, Personal Branding <br>
 ⚡ Fun fact: likes to be friends with anyone! <br>
 
