@@ -4,8 +4,6 @@
 - Student Informatics<br>
 - Learner about Tech<br>
 
-
-
 🌱 I’m currently learning <br>
 - Frontend <br>
 - Cloud Computing <br>
